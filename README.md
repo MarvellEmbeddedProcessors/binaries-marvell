@@ -1,6 +1,6 @@
 # binaries-marvell-prv
 
-Free RTOS License:
+Free RTOS 7.3.0 License:
 The FreeRTOS open source license covers the FreeRTOS source files,
 which are located in the /FreeRTOS/Source directory of the official FreeRTOS
 download.  It also covers most of the source files in the demo application
