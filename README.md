@@ -1,4 +1,4 @@
-# binaries-marvell-prv
+# binaries-marvell
 
 Free RTOS 10.1.0 License:
 
